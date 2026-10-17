@@ -29,28 +29,34 @@ Print `n` rows, each containing exactly `n` asterisks.
 
 ### Example 1
 
-Input: n = 4
+**Input:**
+```text
+n = 4
+```
 
-Output:
-`
+**Output:**
+```text
 ****
 ****
 ****
 ****
-`
+```
 
 ### Example 2
 
-Input: n = 5
+**Input:**
+```text
+n = 5
+```
 
-Output:
-`
-******
-******
-******
-******
-******
-`
+**Output:**
+```text
+*****
+*****
+*****
+*****
+*****
+```
 
 ## Constraints:
 
