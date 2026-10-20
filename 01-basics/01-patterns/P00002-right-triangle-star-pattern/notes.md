@@ -7,10 +7,10 @@ In this problem, n rows of stars need to be printed. The first row will have 1 s
 And going by the above logic, row will take values from 0 to n-1. And subsequently, column will take values from 1 to n.  
 **And that's why, for each value of row, col will go from 0 to row+1.**  
 Which means:  
-when row is 0, col will go from 0 to 1 (1 iteration of col as in python, the loop only goes till n-1). 
-when row is 1, col will go from 0 to 2 (2 iterations of col). 
-when row is 2, col will go from 0 to 3 (3 iterations of col). 
-and so on...  
+when row is 0, col will go from 0 to 1 (1 iteration of col as in python, the loop only goes till n-1).<br>
+when row is 1, col will go from 0 to 2 (2 iterations of col).<br>
+when row is 2, col will go from 0 to 3 (3 iterations of col).<br>
+and so on...<br>
 
 ## Possible Mistakes/Lessons Learnt
 Initially I did use the code mentioned below for col loop:
