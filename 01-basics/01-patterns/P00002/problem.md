@@ -1,11 +1,11 @@
-# P00002 — Right-Angled Triangle Star Pattern
+# P00002 — Right Angled Triangle Star Pattern
 
 ## Problem Metadata
 
 | Field | Value |
 |---|---|
 | Problem ID | P00002 |
-| Title | Right-Angled Triangle Star Pattern |
+| Title | Right Angled Triangle Star Pattern |
 | Topic | Basics → Pattern Printing |
 | Difficulty | Easy |
 | Language | Python |

@@ -1,11 +1,11 @@
-# P00001 — Solid Square Pattern
+# P00001 — Solid Square Star Pattern
 
 ## Problem Metadata
 
 | Field | Value |
 |---|---|
 | Problem ID | P00001 |
-| Title | Solid Square Pattern |
+| Title | Solid Square Star Pattern |
 | Topic | Basics → Pattern Printing |
 | Difficulty | Easy |
 | Language | Python |
