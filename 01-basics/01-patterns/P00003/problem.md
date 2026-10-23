@@ -1,11 +1,11 @@
-# P00002 — Right Angled Triangle Number Pattern
+# P00003 — Right Angled Triangle Increasing Number Pattern
 
 ## Problem Metadata
 
 | Field | Value |
 |---|---|
 | Problem ID | P00003 |
-| Title | Right Angled Triangle Number Pattern |
+| Title | Right Angled Triangle Increasing Number Pattern |
 | Topic | Basics → Pattern Printing |
 | Difficulty | Easy |
 | Language | Python |
