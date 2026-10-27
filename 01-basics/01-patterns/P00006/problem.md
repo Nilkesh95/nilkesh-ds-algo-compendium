@@ -2,7 +2,7 @@
 
 ## Problem Metadata
 
-| Field | Value |
+| Field | Value | 
 |---|---|
 | Problem ID | P00006 |
 | Title | Inverted Right Angled Triangle Increasing Number Pattern |
