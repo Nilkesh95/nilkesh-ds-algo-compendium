@@ -18,6 +18,7 @@ Common concepts and explanations will be documented in `concepts.md` as needed.
 | P00004 | [Right Triangle Repeating Number Pattern](P00004/problem.md) | Easy | [Brute](P00004/solution.py) |
 | P00005 | [Inverted Right Triangle Star Pattern](P00005/problem.md) | Easy | [Brute](P00005/solution.py) |
 | P00006 | [Inverted Right Triangle Increasing Number Pattern](P00006/problem.md) | Easy | [Brute](P00006/solution.py) |
+| P00007 | [Centered Star Full Pyramid Pattern](P00007/problem.md) | Easy | [Brute](P00007/solution.py) |
 
 ## Notes
 
