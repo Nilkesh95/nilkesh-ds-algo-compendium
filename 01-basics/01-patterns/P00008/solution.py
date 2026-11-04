@@ -9,7 +9,7 @@ for row in range(0,n):
         print("*",end="")
     print() 
 
-    """
+"""
 TC: O(n*n)
 SC: O(1)
 """
