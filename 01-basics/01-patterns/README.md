@@ -21,6 +21,8 @@ Common concepts and explanations will be documented in `concepts.md` as needed.
 | P00007 | [Centered Star Full Pyramid Pattern](P00007/problem.md) | Easy | [Brute](P00007/solution.py) |
 | P00008 | [Inverted Full Pyramid Star Pattern](P00008/problem.md) | Easy | [Brute](P00008/solution.py) |
 | P00009 | [Diamond Star Pattern](P00009/problem.md) | Easy | [Brute](P00009/solution.py) |
+| P00010 | [Symmetric Right Triangle Star Pattern](P00010/problem.md) | Easy | [Brute](P00010/solution.py) |
+| P00011 | [Binary Number Triangle Pattern](P00011/problem.md) | Easy | [Brute](P00011/solution.py) |
 
 ## Notes
 
