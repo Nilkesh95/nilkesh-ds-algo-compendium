@@ -10,7 +10,7 @@
 | Topic | Basics → Pattern Printing |
 | Difficulty | Easy |
 | Language | Python |
-| Problem Link | Not provided |
+| Problem Link | [https://takeuforward.org/practice/dsa/pattern-11](https://takeuforward.org/practice/dsa/pattern-11) |
 
 ## Problem Statement
 
