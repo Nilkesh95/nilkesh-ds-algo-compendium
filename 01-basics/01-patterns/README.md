@@ -23,6 +23,7 @@ Common concepts and explanations will be documented in `concepts.md` as needed.
 | P00009 | [Diamond Star Pattern](P00009/problem.md) | Easy | [Brute](P00009/solution.py) |
 | P00010 | [Symmetric Right Triangle Star Pattern](P00010/problem.md) | Easy | [Brute](P00010/solution.py) |
 | P00011 | [Binary Number Triangle Pattern](P00011/problem.md) | Easy | [Brute](P00011/solution.py) |
+| P00012 | [Number Crown Pattern](P00012/problem.md) | Easy | [Brute](P00012/solution.py) |
 
 ## Notes
 
