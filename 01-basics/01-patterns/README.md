@@ -24,6 +24,7 @@ Common concepts and explanations will be documented in `concepts.md` as needed.
 | P00010 | [Symmetric Right Triangle Star Pattern](P00010/problem.md) | Easy | [Brute](P00010/solution.py) |
 | P00011 | [Binary Number Triangle Pattern](P00011/problem.md) | Easy | [Brute](P00011/solution.py) |
 | P00012 | [Number Crown Pattern](P00012/problem.md) | Easy | [Brute](P00012/solution.py) |
+| P00013 | [Floyd's Number Triangle Pattern](P00013/problem.md) | Easy | [Brute](P00013/solution.py) |
 
 ## Notes
 
