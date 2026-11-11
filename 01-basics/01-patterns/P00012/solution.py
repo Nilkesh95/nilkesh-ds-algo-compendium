@@ -14,3 +14,8 @@ for i in range(0, n):
         print(l, end="")
 
     print()
+
+"""
+TC: O(n*n)
+SC: O(1)
+"""
