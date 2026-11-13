@@ -25,6 +25,7 @@ Common concepts and explanations will be documented in `concepts.md` as needed.
 | P00011 | [Binary Number Triangle Pattern](P00011/problem.md) | Easy | [Brute](P00011/solution.py) |
 | P00012 | [Number Crown Pattern](P00012/problem.md) | Easy | [Brute](P00012/solution.py) |
 | P00013 | [Floyd's Number Triangle Pattern](P00013/problem.md) | Easy | [Brute](P00013/solution.py) |
+| P00014 | [Alphabet Triangle Pattern](P00014/problem.md) | Easy | [Brute](P00014/solution.py) |
 
 ## Notes
 

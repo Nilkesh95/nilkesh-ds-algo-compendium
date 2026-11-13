@@ -1,12 +1,12 @@
 
-# P00014 — Increasing Alphabet Triangle Pattern
+# P00014 — Alphabet Triangle Pattern
 
 ## Problem Metadata
 
 | Field | Value |
 |---|---|
 | Problem ID | P00014 |
-| Title | Increasing Alphabet Triangle Pattern |
+| Title | Alphabet Triangle Pattern |
 | Topic | Basics → Pattern Printing |
 | Difficulty | Easy |
 | Language | Python |
