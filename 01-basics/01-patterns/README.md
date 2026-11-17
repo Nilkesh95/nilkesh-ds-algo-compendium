@@ -27,6 +27,7 @@ Common concepts and explanations will be documented in `concepts.md` as needed.
 | P00013 | [Floyd's Number Triangle Pattern](P00013/problem.md) | Easy | [Brute](P00013/solution.py) |
 | P00014 | [Alphabet Triangle Pattern](P00014/problem.md) | Easy | [Brute](P00014/solution.py) |
 | P00015 | [Inverted Alphabet Triangle Pattern](P00015/problem.md) | Easy | [Brute](P00015/solution.py) |
+| P00016 | [Repeated Alphabet Triangle Pattern](P00016/problem.md) | Easy | [Brute](P00016/solution.py) |
 
 
 ## Notes
